@@ -1,5 +1,5 @@
 # TanksGamePascalABC
-Tanks Game written in PascalABC.NET by Skyrimus
+Tanks Game written in PascalABC.NET by Skyrimus (Completed)
 
 ## Released features:
 
