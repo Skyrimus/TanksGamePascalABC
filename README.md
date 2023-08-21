@@ -5,6 +5,8 @@ Tanks Game written in PascalABC.NET by Skyrimus
 
 - [x] Menu with selection PVE or PVP mode.
 - [x] Primitive PVE AI.
+- [x] First player movement on WASD + Space in PVP mode.
+- [x] Second player movement on arrows + Enter in PVP mode.
 - [x] Implemented shooting mechanics.
 - [x] Added bullet imagery.
 - [x] Enabled tank collisions.
